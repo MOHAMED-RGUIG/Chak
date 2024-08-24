@@ -67,7 +67,7 @@ function Navbar() {
                 <a href="#" className="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                 <div className="dropdown-menu fade-up m-0">
             
-                    <a href="#" className="dropdown-item">A propos de nous !</a>
+                    <a href="#" className="dropdown-item">About !</a>
                 </div>
             </div>*/}
      
