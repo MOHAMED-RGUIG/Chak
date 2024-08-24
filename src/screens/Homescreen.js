@@ -216,7 +216,7 @@ export default function Homescreen() {
       <div className='row menuicon justify-content-center col-xl-12 col-md-12 col-12 mx-auto mt-5 pt-5 pb-5' style={{background:' #f9f9ff'}}>
       <h2>Nos chiffres</h2>
       
-      <div className='col-6 col-md-2 navicon p-4'>
+      <div className='col-4 col-md-2 navicon p-4'>
         <a href="/orders" className="nav-link">
           <i className="bi bi-box-seam row justify-content-center m-3"></i>
           <p>Réalisation 1 </p>
@@ -224,7 +224,7 @@ export default function Homescreen() {
         </a>
       </div>
 
-      <div className='col-6 col-md-2 navicon p-4'>
+      <div className='col-4 col-md-2 navicon p-4'>
         <a href="/orders" className="nav-link">
           <i className="bi bi-buildings row justify-content-center m-3"></i>
           <p>Réalisation 2 </p>
@@ -232,7 +232,7 @@ export default function Homescreen() {
         </a>
       </div>
 
-      <div className='col-6 col-md-2 navicon p-4'>
+      <div className='col-4 col-md-2 navicon p-4'>
         <a href="/orders" className="nav-link">
           <i className="bi bi-grid row justify-content-center m-3"></i>
           <p>Réalisation 3 </p>
@@ -240,21 +240,21 @@ export default function Homescreen() {
         </a>
       </div>
 
-      <div className='col-6 col-md-2 navicon p-4'>
+      <div className='col-4 col-md-2 navicon p-4'>
         <a href="/orders" className="nav-link">
           <i className="bi bi-map row justify-content-center m-3"></i>
           <p>Réalisation 4 </p>
           <Counter target={125} duration={0.00001} />
         </a>
       </div>
-      <div className='col-6 col-md-2 navicon p-4'>
+      <div className='col-4 col-md-2 navicon p-4'>
         <a href="/orders" className="nav-link">
           <i className="bi bi-window row justify-content-center m-3"></i>
           <p>Réalisation 5 </p>
           <Counter target={84} duration={0.00001} />
         </a>
       </div>
-      <div className='col-6 col-md-2 navicon p-4'>
+      <div className='col-4 col-md-2 navicon p-4'>
         <a href="/orders" className="nav-link">
           <i className="bi bi-houses row justify-content-center m-3"></i>
           <p>Réalisation 6 </p>
