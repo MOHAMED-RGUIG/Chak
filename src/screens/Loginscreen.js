@@ -25,7 +25,7 @@ export default function Loginscreen() {
         <div className='col-md-11 col-11 text-start p-3 mt-5 mb-3'>
           <h2 className='text-center m-2' style={{ fontSize: '30px' }}>Contact</h2>
 
-          <p className='col-12 col-lg-10 mx-auto pb-5'>
+          <p className='col-12 col-lg-9 mx-auto pb-5'>
             Line 63:13: The href attribute requires a valid value to be accessible. 
             Provide a valid, navigable address as the href value. 
             If you cannot provide a valid href, but still need the element to resemble a link, 
