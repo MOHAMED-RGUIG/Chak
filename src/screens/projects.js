@@ -2,7 +2,7 @@ import React from 'react'
 
 function projects() {
   return (
-    <section className="builder_area mt-5 pt-5 pb-5 mb-5  col-lg-11 mx-auto">
+    <section className="builder_area mt-5 pt-5 pb-5 mb-5 col-12 col-lg-11 mx-auto">
     <div className="main_title mb-5">
       <h2>Nos Projects</h2>
       <p>Who are in extremely love with eco friendly system.</p>
