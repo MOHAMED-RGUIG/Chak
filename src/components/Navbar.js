@@ -62,7 +62,7 @@ function Navbar() {
 
             <a href="/services" className="nav-item nav-link">Services</a>
             <a href="/projects" className="nav-item nav-link">Projects</a>
-            <a href="/about" className="nav-item nav-link">About !</a>
+            <a href="/about" className="nav-item nav-link">About</a>
            {/*        <div className="nav-item dropdown">
                 <a href="#" className="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                 <div className="dropdown-menu fade-up m-0">
