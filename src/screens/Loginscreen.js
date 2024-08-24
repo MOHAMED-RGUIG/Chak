@@ -35,7 +35,7 @@ export default function Loginscreen() {
             If you cannot prov
           </p>
 
-          <form className='container' onSubmit={handleSubmit}>
+          <form className='container col-12 col-lg-10' onSubmit={handleSubmit}>
             <label htmlFor="email">Email Address</label>
             <input
               id="email"
