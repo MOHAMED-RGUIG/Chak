@@ -51,7 +51,7 @@ function Navbar() {
 
 <nav className="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
     <a href="/" className="navbar-brand d-flex  px-lg-5">
- <img src='/logobureauetude.png' style={{width:'220px',height:'55px'}}/>
+ <img src='/logobureauetude.png' style={{width:'180px',height:'55px'}}/>
     </a>
     <button type="button" className="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
         <span className="navbar-toggler-icon"></span>
