@@ -320,7 +320,7 @@ export default function Homescreen() {
 <div className='row menuicon justify-content-center col-xl-11 col-md-11 col-12 mx-auto mt-5 pt-5 pb-5'>
 
           <h2 className='mb-5 mt-4'> Ils nous font confiance</h2>
-            <div  className='col-6 col-md-3 navicon p-4 m'>
+            <div  className='col-12 col-md-3 navicon p-4 m'>
             <a href="/orders" className="nav-link">
               <img src="/clt1.webp" />
        
@@ -328,7 +328,7 @@ export default function Homescreen() {
         </a>
             </div>
 
-            <div  className='col-6 col-md-3 navicon p-4'>
+            <div  className='col-12 col-md-3 navicon p-4'>
             <a href="/orders" className="nav-link">
             <img src="/clt2.webp" />
           
@@ -336,20 +336,20 @@ export default function Homescreen() {
             </div>
 
 
-            <div  className='col-6 col-md-3 navicon p-4 '>
+            <div  className='col-12 col-md-3 navicon p-4 '>
             <a href="/orders" className="nav-link" >
             <img src="/clt6.webp" />
    
         </a>
             </div>
-            <div  className='col-6 col-md-3 navicon p-4'>
+            <div  className='col-12 col-md-3 navicon p-4'>
             <a href="/orders" className="nav-link">
             <img src="/clt4.webp" />
      
         </a>
             </div>
          
-            <div  className='col-6 col-md-3 navicon p-4 m'>
+            <div  className='col-12 col-md-3 navicon p-4 m'>
             <a href="/orders" className="nav-link">
               <img src="/clt1.webp" />
        
@@ -357,7 +357,7 @@ export default function Homescreen() {
         </a>
             </div>
 
-            <div  className='col-6 col-md-3 navicon p-4'>
+            <div  className='col-12 col-md-3 navicon p-4'>
             <a href="/orders" className="nav-link">
             <img src="/clt2.webp" />
           
@@ -365,13 +365,13 @@ export default function Homescreen() {
             </div>
 
 
-            <div  className='col-6 col-md-3 navicon p-4 '>
+            <div  className='col-12 col-md-3 navicon p-4 '>
             <a href="/orders" className="nav-link" >
             <img src="/clt6.webp" />
    
         </a>
             </div>
-            <div  className='col-6 col-md-3 navicon p-4'>
+            <div  className='col-12 col-md-3 navicon p-4'>
             <a href="/orders" className="nav-link">
             <img src="/clt4.webp" />
      
