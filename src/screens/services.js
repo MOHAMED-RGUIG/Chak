@@ -20,7 +20,7 @@ export default function services() {
               <div className="p-4">
                 <h2 className="h5 mb-3 text-black line-height-sm">Automative Manufacturing</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In ipsum error perspiciatis odit ullam officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium voluptatum vel natus, repellat at optio.</p>
-                <p className="mb-0"><a href="#" className="btn btn-danger"><small className="text-uppercase font-weight-bold text-black">Read More</small></a></p>
+                <p className="mb-0"><a href="#" className="btn btn-danger"><small className="text-uppercase font-weight-bold text-white">Read More</small></a></p>
               </div>
             </div>
           </div>
@@ -32,7 +32,7 @@ export default function services() {
               <div className="p-4">
                 <h2 className="h5 mb-3 text-black line-height-sm">Mechanical Engineering</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In ipsum error perspiciatis odit ullam officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam, cupiditate officia recusandae velit sint totam.</p>
-                <p className="mb-0"><a href="#" className="btn btn-danger"><small className="text-uppercase font-weight-bold text-black">Read More</small></a></p>
+                <p className="mb-0"><a href="#" className="btn btn-danger"><small className="text-uppercase font-weight-bold text-white">Read More</small></a></p>
               </div>
             </div>
           </div>
@@ -44,7 +44,7 @@ export default function services() {
               <div className="p-4">
                 <h2 className="h5 mb-3 text-black line-height-sm">Oil &amp; Gas Energy</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In ipsum error perspiciatis odit ullam officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias fugiat facilis quasi ratione ducimus ipsam!</p>
-                <p className="mb-0"><a href="#" className="btn btn-danger"><small className="text-uppercase font-weight-bold text-black">Read More</small></a></p>
+                <p className="mb-0"><a href="#" className="btn btn-danger"><small className="text-uppercase font-weight-bold text-white">Read More</small></a></p>
               </div>
             </div>
           </div>
@@ -56,7 +56,7 @@ export default function services() {
               <div className="p-4">
                 <h2 className="h5 mb-3 text-black line-height-sm">Industrial Construction</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In ipsum error perspiciatis odit ullam officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium ullam est alias minus, expedita autem.</p>
-                <p className="mb-0"><a href="#" className="btn btn-danger"><small className="text-uppercase font-weight-bold text-black">Read More</small></a></p>
+                <p className="mb-0"><a href="#" className="btn btn-danger"><small className="text-uppercase font-weight-bold text-white">Read More</small></a></p>
               </div>
             </div>
           </div>
